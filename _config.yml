@@ -42,7 +42,6 @@ JB :
   # NOTE: When in localhost, your site will run from root "/" regardless of BASE_PATH
   #
   BASE_PATH : ""
-  HOME_PATH : "/"
   
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
