@@ -8,4 +8,4 @@ tags: wordpress tool
 ---
 I like this cool blue style! It's very cool!
 
-<a href="http://www.jiangle.name/wp-content/uploads/2008/03/2008-03-30_2356.png"><img class="alignnone size-medium wp-image-67" title="WordPress 2.5 backend" src="http://www.jiangle.name/wp-content/uploads/2008/03/2008-03-30_2356-270x300.png" alt="" width="270" height="300" /></a>
+<a href="http://i.jiangle.name/wp-content/uploads/2008/03/2008-03-30_2356.png"><img class="alignnone size-medium wp-image-67" title="WordPress 2.5 backend" src="http://i.jiangle.name/wp-content/uploads/2008/03/2008-03-30_2356-270x300.png" alt="" width="270" height="300" /><

@@ -15,9 +15,9 @@ tags: fmfans dns
 方法1
 下载附件，解压得到一个bat文件，双击这个bat文件，关闭浏览器，然后再重开浏览器
 
-<a href="http://www.jiangle.name/wp-content/uploads/2007/10/20071019_c0b60b55a80338fb0b2dkhojcspb7waa.zip" title="hosts文件fmfans补丁">hosts文件fmfans补丁</a>
+<a href="http://i.jiangle.name/wp-content/uploads/2007/10/20071019_c0b60b55a80338fb0b2dkhojcspb7waa.zip" title="hosts文件fmfans补丁">hosts文件fmfans补丁</a>
 
 方法2
 用记事本打开c:\windows\system32\drivers\etc\hosts这个文件，在最后增加一行内容
 219.234.95.186 fmfans.cpgl.net
-关闭浏览器，重开浏览器
+关闭浏http://i.jiangle.name/w

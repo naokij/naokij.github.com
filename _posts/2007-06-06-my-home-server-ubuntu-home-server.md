@@ -6,7 +6,7 @@ wordpress_url: http://www.jiangle.name/archives/46
 date: 2007-06-06 00:03:01.000000000 +08:00
 tags: server home life
 ---
-<a href="http://www.jiangle.name/wp-content/uploads/2007/06/p6050008.JPG" title="我的Home server"><img src="http://www.jiangle.name/wp-content/uploads/2007/06/p6050008.thumbnail.JPG" title="我的Home server" alt="我的Home server" align="left" /></a>
+<a href="http://i.jiangle.name/wp-content/uploads/2007/06/p6050008.JPG" title="我的Home server"><img src="http://i.jiangle.name/wp-content/uploads/2007/06/p6050008.thumbnail.JPG" title="我的Home server" alt="我的Home server" align="left" /></a>
 三周前我装了这台机器，从淘宝上面购买的威盛芯版+迷你机箱，主板、cpu、显卡声卡网卡全集成了，包括运费花了800RMB，内存是从新蛋上买的1根Kingston 512DDR2 667的，168RMB，硬盘是一块80G的移动硬盘，正好闲着，拿来发挥作用，操作系统采用ubuntu server 7.04。总共花了不到1000RMB,耗电量在50W以内，放在家里bt，电驴，文件共享，省电又省钱，最近我的台式机已经很少开机了。
 
 另外，不小心被我发现了launchpad上<a href="https://launchpad.net/uhs/">Ubuntu Home Server</a>的项目，期待能够早日用上。

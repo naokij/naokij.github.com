@@ -11,6 +11,6 @@ The sfI18nExportPlugin will make your life easier if you work on internationaliz
 
 sfBB
 
-<img src='http://www.jiangle.name/wp-content/uploads/2007/06/sfbb_1.gif' alt='sfBB' />
+<img src='http://i.jiangle.name/wp-content/uploads/2007/06/sfbb_1.gif' alt='sfBB' />
 
-<a href="http://www.symfony-project.com/weblog/2007/06/25/sfbbplugin-and-sfi18nexportplugin.html">原文</a>
+<a href="http://www.symfony-project.com/weblog/2007/06/25/sfbbplugin-and-sfi18nexportplugin.html">原文</a

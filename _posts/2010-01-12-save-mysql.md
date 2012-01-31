@@ -5,8 +5,9 @@ wordpress_id: 233
 wordpress_url: http://www.jiangle.name/?p=233
 date: 2010-01-12 21:10:43.000000000 +08:00
 tags: mysql oracle
+
 ---
-<h2>如甲骨文把MySQL按照太阳微电子的一部分收购，将由数据库客户买单。</h2>
+## 如甲骨文把MySQL按照太阳微电子的一部分收购，将由数据库客户买单。
 2009年4月，甲骨文<a href="http://www.oracle.com/us/corporate/press/018363">宣布</a> 其同意收购太阳微电子。由于太阳微电子<a href="http://www.mysql.com/news-and-events/sun-to-acquire-mysql.html">已于上一年收购了MySQL</a>，这就意味着闭源数据库市场的领先者，甲骨文，将拥有最受欢迎的开源数据库，MySQL。
 
 如果甲骨文就此收购MySQL，它会像金钱能够买断一个开源项目一样对MySQL进行控制。事实上，对于大多数开源项目（例如Linux或 Apache），一个竞争者甚至无法通过任何可与之媲美的方式购得这种影响的十分之一。但MySQL的成功一直都依赖于其背后开发、销售和推广它的公司。 公司（最开始MySQL AB，然后太阳微电子）始终拥有重要的知识产权（IPRs）、最著名的商标、版权及（目前为止仅仅用于防御性目的）专利。知识产权产生收入，并将这些收入 的大部分重新投入到开发中，因此随着时间推移，不仅规模越来越大，同时也发展得越来越好。

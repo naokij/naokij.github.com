@@ -5,6 +5,7 @@ wordpress_id: 222
 wordpress_url: https://www.jiangle.name/?p=222
 date: 2010-01-06 19:55:59.000000000 +08:00
 tags: xinjiang network
+
 ---
 看图，<a title="FMFans" href="http://fmfans.cn/">FMFans</a> 2010.1.6终于有来自新疆的访问了
 
