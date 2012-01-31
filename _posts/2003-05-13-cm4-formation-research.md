@@ -3,6 +3,7 @@ layout: post
 title: CM4阵型探索---重回四后卫
 wordpress_id: 15
 date: 2003-05-13 12:13:00.000000000 +08:00
+tags: cm4 fmfans
 ---
 测试：naoki,wing_ask
 执笔：加扎

@@ -4,6 +4,7 @@ title: PNG透明，IE6和链接
 wordpress_id: 69
 wordpress_url: http://www.jiangle.name/?p=69
 date: 2008-07-01 12:12:43.000000000 +08:00
+tags: ie png
 ---
 PNG透明在IE6下可以通过AlphaImageLoader滤镜实现，可是如果是背景透明，经常会遇到链接失效的问题。
 

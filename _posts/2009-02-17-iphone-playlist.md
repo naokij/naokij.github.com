@@ -4,6 +4,7 @@ title: iPhone播放列表里的几首歌
 wordpress_id: 129
 wordpress_url: http://www.jiangle.name/?p=129
 date: 2009-02-17 13:31:39.000000000 +08:00
+tags: playlist
 ---
 <a href="http://dl.getdropbox.com/u/398278/Music/Jingle%20Bell%20Rock.mp3">Jingle Bell Rock</a><a>
 </a><a href="http://dl.getdropbox.com/u/398278/Music/Jingle%20Bell%20Rock.mp3">Yellow</a>

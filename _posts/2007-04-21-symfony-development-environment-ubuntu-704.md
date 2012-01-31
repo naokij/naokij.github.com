@@ -3,6 +3,7 @@ layout: post
 title: ubuntu 7.04 下配置symfony开发环境
 wordpress_id: 34
 date: 2007-04-21 07:35:12.000000000 +08:00
+tags: symfony framework php ubuntu
 ---
 在ubuntu 7.04下配置symfony非常简单，10分钟内可以搞定。
 

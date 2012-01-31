@@ -3,6 +3,7 @@ layout: post
 title: symfony 1.0.1版发布
 wordpress_id: 20
 date: 2007-03-20 17:23:23.000000000 +08:00
+tags: symfony framework php
 ---
 symfony 1.0.0版发布一个月之后，symfony 1.0.1版发布了。这个版本没有新功能，修改了一些bug.
 <ul>

@@ -4,6 +4,7 @@ title: 拯救MySQL!
 wordpress_id: 233
 wordpress_url: http://www.jiangle.name/?p=233
 date: 2010-01-12 21:10:43.000000000 +08:00
+tags: mysql oracle
 ---
 <h2>如甲骨文把MySQL按照太阳微电子的一部分收购，将由数据库客户买单。</h2>
 2009年4月，甲骨文<a href="http://www.oracle.com/us/corporate/press/018363">宣布</a> 其同意收购太阳微电子。由于太阳微电子<a href="http://www.mysql.com/news-and-events/sun-to-acquire-mysql.html">已于上一年收购了MySQL</a>，这就意味着闭源数据库市场的领先者，甲骨文，将拥有最受欢迎的开源数据库，MySQL。

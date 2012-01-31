@@ -3,6 +3,7 @@ layout: post
 title: symfony权威指南 第5章 配置symfony 翻译完成
 wordpress_id: 25
 date: 2007-03-27 07:26:51.000000000 +08:00
+tags: symfony book translation
 ---
 翻译这一章花的时间比较多一点，不过总算完成了，接下来翻译第7章。
 

@@ -4,6 +4,7 @@ title: 推荐一个原型工具Balsamiq Mockups
 wordpress_id: 121
 wordpress_url: http://www.jiangle.name/?p=121
 date: 2009-02-11 17:41:03.000000000 +08:00
+tags: tool mockup
 ---
 原型工具我尝试过不少，最近一直在用OmniGraffle Pro。看到老郁推荐<a href="http://www.balsamiq.com/">Balsamiq Mockups</a>，我也来尝试了一把。
 

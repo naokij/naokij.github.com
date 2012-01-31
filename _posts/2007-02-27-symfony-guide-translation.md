@@ -3,6 +3,7 @@ layout: post
 title: 《symfony 权威指南》翻译项目启动
 wordpress_id: 16
 date: 2007-02-27 05:54:00.000000000 +08:00
+tags: symfony book translation
 ---
  «The Definitive Guide to symfony» 正在翻译简体中文版。
 

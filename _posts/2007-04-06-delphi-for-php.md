@@ -3,6 +3,7 @@ layout: post
 title: Manuel Lemos's review on Delphi for PHP 2007
 wordpress_id: 30
 date: 2007-04-06 19:12:39.000000000 +08:00
+tags: delphi
 ---
 <blockquote>For a first version of this PHP IDE, I think Borland/CodeGear did very well, but there is plenty of room for improvement.
 

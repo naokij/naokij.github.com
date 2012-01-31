@@ -4,6 +4,7 @@ title: FMFans现在遇到的问题
 wordpress_id: 62
 wordpress_url: http://www.jiangle.name/archives/62
 date: 2007-10-21 17:44:26.000000000 +08:00
+tags: fmfans dns
 ---
 现在大部分人都上不来FMFans了，请大家不要担心，我们很快会回来的。如果你的电脑是Windows 2000, Windows XP或者 Windows Vista的系统，可以用后面<a href="http://www.jiangle.name/archives/60">这篇帖子</a>的方法解决。
 

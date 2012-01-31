@@ -4,6 +4,7 @@ title: 不幸被诺顿害了
 wordpress_id: 43
 wordpress_url: http://www.jiangle.name/archives/43
 date: 2007-05-19 15:32:09.000000000 +08:00
+tags: norton windows
 ---
 家里的台式机的Windows XP突然启动不了，花了一个晚上的时间备份数据，现在正在痛苦的重新安装Windows XP。
 

@@ -3,6 +3,7 @@ layout: post
 title: 《symfony权威指南》 已经确定要出版了
 wordpress_id: 32
 date: 2007-04-12 17:51:55.000000000 +08:00
+tags: symfony book translation
 ---
 早上在地铁上半梦半醒的时候接到出版社的电话，<a href="http://www.symfony-project.cn/book/start">《symfony权威指南》</a>的版权他们已经拿到了，这本书已经确定要出版了! 另外AC米兰淘汰拜仁慕尼黑晋级欧洲冠军杯半决赛，这个早上真是好消息不断。
 

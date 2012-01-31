@@ -3,6 +3,7 @@ layout: post
 title: explode拆分字符串big5版
 wordpress_id: 12
 date: 2005-02-24 17:32:00.000000000 +08:00
+tags: php explode big5 chinese
 ---
 {% highlight php %}
 < ?php

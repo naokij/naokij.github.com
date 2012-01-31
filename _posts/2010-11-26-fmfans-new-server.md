@@ -4,6 +4,7 @@ title: FMFans更换服务器
 wordpress_id: 268
 wordpress_url: http://www.jiangle.name/?p=268
 date: 2010-11-26 20:40:53.000000000 +08:00
+tags: fmfans hosts server dns
 ---
 如果你能够看到下面字是红色而不是绿色，说明你电脑的dns解析有问题。这是因为fmfans刚刚更换了新的服务器。
 

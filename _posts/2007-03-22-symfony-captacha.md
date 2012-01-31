@@ -3,6 +3,7 @@ layout: post
 title: symfony中实现验证码的方法(利用jpgraph)
 wordpress_id: 22
 date: 2007-03-22 05:26:17.000000000 +08:00
+tags: symfony plugin
 ---
 今天刚好用到验证码，在<a href="http://trac.symfony-project.com/trac/wiki/HowToCaptcha">symfony的wiki</a>找到一个解决的方法，记录下来。
 这个方法其实使用的是大名鼎鼎的jpgraph的库，由于有<a href="http://trac.symfony-project.com/trac/wiki/sfJpGraphPlugin">jpgraph的插件</a>，安装很容易:

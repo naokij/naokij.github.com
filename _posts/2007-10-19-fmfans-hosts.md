@@ -4,6 +4,7 @@ title: 部分网友上不了fmfans的解决方法
 wordpress_id: 60
 wordpress_url: http://www.jiangle.name/archives/60
 date: 2007-10-19 15:04:02.000000000 +08:00
+tags: fmfans dns
 ---
 这两天不少人反映上不了论坛，原因是论坛dns服务器出现故障，现在公布临时解决办法
 

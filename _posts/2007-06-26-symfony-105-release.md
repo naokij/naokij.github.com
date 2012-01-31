@@ -4,6 +4,7 @@ title: symfony 1.0.5 发布
 wordpress_id: 51
 wordpress_url: http://www.jiangle.name/archives/51
 date: 2007-06-26 09:45:32.000000000 +08:00
+tags: symfony php framework
 ---
 bugs fixed in this release：
 

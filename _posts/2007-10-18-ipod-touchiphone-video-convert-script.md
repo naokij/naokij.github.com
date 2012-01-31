@@ -4,6 +4,7 @@ title: ipod touch/iphone 视频转换脚本
 wordpress_id: 59
 wordpress_url: http://www.jiangle.name/archives/59
 date: 2007-10-18 21:13:45.000000000 +08:00
+tags: iphone tool script video
 ---
 ipod touch入手好几天了，终于找到一个速度不错的linux下的转换方案，拿出来分享一下。
 这个脚本需要先安装mencoder,gpac
