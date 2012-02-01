@@ -67,6 +67,9 @@ monit是一个开源的系统服务监控软件，它可以在任何服务挂掉
 
 	/usr/local/bin/monit -d 60 -v -c /etc/monitrc  -p /var/run/monit.pid -l /var/log/monit.log
 	
-
+##参考资料
+1. [用monit监控系统关键进程](http://feilong.me/2011/02/monitor-core-processes-with-monit)
+2. [Installing Monit On Linux CentOS Server](http://blog.hostonnet.com/installing-monit-on-linux-centos-server)
+3. [Monit Homepage](http://mmonit.com/monit/)
 
 
