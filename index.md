@@ -4,7 +4,7 @@ title: Jiang Le
 ---
 {% include JB/setup %}
 
-欢迎访问我的个人网站，欢迎在[Twitter](http://twitter.com/jiangle)或者[微博](http://weibo.com/smartynaoki)上关注我，或者给我写信(smartynaoki@gmail.com)。
+欢迎访问我的个人网站，欢迎在[Twitter](http://twitter.com/jiangle)或者[微博](http://weibo.com/smartynaoki)上关注我，或者给我写信<smartynaoki@gmail.com>。
 
 
 ## 最近发布的文章
