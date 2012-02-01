@@ -14,4 +14,3 @@ tags: mysql oracle
 
 如果这些知识产权落入MySQL的主要竞争对手手中，那么MySQL将即刻不再是甲骨文的商业高价产品的替代品。到目前为止，客户可以在新项目中选 择使用MySQL，而不选择甲骨文产品。某些大型公司甚至为现有的软件解决方案从甲骨文迁移（转换）到MySQL。而且，每个人都可通过使用MySQL对 甲骨文销售人员施加实在的威胁，以获得大幅折扣。如甲骨文拥有MySQL，那么做这种尝试的客户只能得到被嘲笑的结果。对于甲骨文来说，铲除这一问题将为 其轻松产生每年不下10亿美元的收益。
 
-<a href="http://www.helpmysql.org/cn/petition"><img class="alignnone" title="Save MySQL" src="http://www.helpmysql.org/fwk/ml/10018574/helpmysql_Banner_320x240_EN.png" alt="Save MySQL" width="320" height="240" /></a>
