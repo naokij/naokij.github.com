@@ -7,7 +7,7 @@ category: tech
 tags: php explode big5 chinese
 ---
 {% highlight php %}
-< ?php
+<?php
 $s='帆船|火車';
 var_dump(explode('|',$s));
 ?> 
@@ -17,9 +17,9 @@ var_dump(explode('|',$s));
 本來預期的結果應該是拆成 帆船 跟 火車
 可是由於big5的 帆 這個字big5内碼是啊a67c，跟分割符|的内碼7c相沖突，實際結果是 ? ?船 火車
 可以用下面的函數來解決
-
+145
 {% highlight php %}
-< ?php
+<?php
 /**
 * 用$sep來拆分$str
 *
