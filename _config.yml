@@ -18,6 +18,20 @@ author :
   github : naokij
   twitter : jiangle
   feedburner : feedname
+  
+
+# Theme settings
+theme:
+  # Google analytics UID
+  google_analytics_uid: UA-214442-5
+  # Disqus shortname, for comments
+  disqus_shortname: jiangle
+  # Number of featured posts on homepage
+  homepage_featured: 1
+  # Number of posts on homepage (in addition to featured posts)
+  homepage_posts: 3
+  # Number of words to display in post summaries
+  featured_wordcount: 120
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
