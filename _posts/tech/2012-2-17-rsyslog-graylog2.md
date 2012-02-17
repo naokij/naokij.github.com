@@ -10,6 +10,11 @@ graylog2web界面相比rsyslogd的cli界面相比好上一百倍，而且支持�
 
 syslog是一个很古老的协议，很多设备导出的日志不标准，直接用graylog2会有各种各样的问题。rsyslog在这方面比较强悍，所以把rsyslog放在前端，对各设备的syslog处理之后再导出给graylog2。
 
+##相关系统&软件
+* CentOS 6.2
+* rsyslog 4.6.2
+* graylog 0.9.6
+
 ##安装rsyslogd
 我的系统是CentOS 6.2，已经自带了rsyslog，不用再另外安装了。但是需要做一些额外的设置。
 
