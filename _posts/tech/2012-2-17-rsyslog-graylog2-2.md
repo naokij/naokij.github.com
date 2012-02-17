@@ -51,10 +51,10 @@ wget https://github.com/downloads/elasticsearch/elasticsearch/elasticsearch-0.18
 
 基本设置
 	vi /opt/elasticsearch/config/elasticsearch.yml
-`network.host:` ，设置成`127.0.0.1`
-`path.logs`，设置成`/var/log/elasticsearch` 
-`path.data`，设置成`/var/data/elasticsearch`
-`cluster.name`，设置成`graylog2`
+	`network.host:` ，设置成`127.0.0.1`
+	`path.logs`，设置成`/var/log/elasticsearch` 
+	`path.data`，设置成`/var/data/elasticsearch`
+	`cluster.name`，设置成`graylog2`
 
 
 下载elasticsearch-servicewrapper (tanuki-wrapper) 
