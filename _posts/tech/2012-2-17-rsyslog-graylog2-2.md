@@ -46,8 +46,8 @@ graylog2 是一个开源的日志存储系统，它由下面几部分组成：
 
 ###安装elasticsearch
 首先是下载
-cd /opt
-wget https://github.com/downloads/elasticsearch/elasticsearch/elasticsearch-0.18.7.tar.gz tar xzfv elasticsearch-0.18.7.tar.gz
+	cd /opt
+	wget https://github.com/downloads/elasticsearch/elasticsearch/elasticsearch-0.18.7.tar.gz 	tar xzfv elasticsearch-0.18.7.tar.gz
 
 基本设置
 	vi /opt/elasticsearch/config/elasticsearch.yml
@@ -88,8 +88,8 @@ wget https://github.com/downloads/elasticsearch/elasticsearch/elasticsearch-0.18
 	ln -s graylog2-server-0.9.6 graylog2-server
 
 修改配置文件`/etc/graylog2.conf`
-		cp /opt/graylog2-server/graylog2.conf.example /etc/graylog2.conf
-		编辑/etc/graylog2.conf 设置monogdb_user, mongodb_password
+	cp /opt/graylog2-server/graylog2.conf.example /etc/graylog2.conf
+	编辑/etc/graylog2.conf 设置monogdb_user, mongodb_password
 
 启动脚本`/etc/init.d/graylog2-server`
 <script src="https://gist.github.com/1851983.js?file=graylog2-server"></script>
