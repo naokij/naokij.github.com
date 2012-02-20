@@ -89,7 +89,8 @@ graylog2 是一个开源的日志存储系统，它由下面几部分组成：
 
 修改配置文件`/etc/graylog2.conf`
 	cp /opt/graylog2-server/graylog2.conf.example /etc/graylog2.conf
-	编辑/etc/graylog2.conf 设置monogdb_user, mongodb_password
+	编辑/etc/graylog2.conf 设置monogdb_user, 	mongodb_password,syslog_listen_port = 1514 syslog_protocol = tcp
+
 
 启动脚本`/etc/init.d/graylog2-server`
 <script src="https://gist.github.com/1851983.js?file=graylog2-server"></script>
