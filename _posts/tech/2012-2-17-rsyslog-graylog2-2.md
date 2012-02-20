@@ -107,6 +107,98 @@ graylog2 是一个开源的日志存储系统，它由下面几部分组成：
 	ps aux | grep graylog2
 		root     23197  2.3  0.1 1196204 18428 pts/0   Sl   12:37   0:00 java -jar ../graylog2-server.jar
 
+###安装graylog2-web-interface
+安装RVM，通过RVM安装ruby 1.9.3
+
+	bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
+	rvm install 1.9.3
+	
+新建graylog用户
+
+	adduser -m graylog
+
+下载最新版graylog2-web-interface
+
+	cd /opt/
+	wget https://github.com/downloads/Graylog2/graylog2-web-interface/graylog2-web-interface-0.9.6.tar.gz
+	tar xzvf graylog2-web-interface-0.9.6.tar.gz
+	ln -s graylog2-web-interface-0.9.6 graylog2-web-interface
+	chown -R graylog /opt/graylog2-web-interface-0.9.6
+
+使用bundler安装必要的gem
+	rvm use 1.9.3
+	cd /opt/graylog2-web-interface
+	gem install bundler
+	bundle install
+
+配置graylog2-web-interface  
+配置文件路径/opt/graylog2-web-interface/config 根据你的环境修改下面三个文件
+* email.yml
+* general.yml
+* mongoid.yml(请使用之前设置的用户名密码)
+
+开启graylog2-web-inteface
+	rvm use 1.9.3
+	cd /opt/graylog2-web-interface
+	RAILS_ENV=production scripts/rails server
+
+访问http://x.x.x.x:3000/ x.x.x.x是服务器ip地址。如果没问题，graylog2会要求你创建第一个用户。创建了第一个用户以后，按ctrl+c关闭graylog2-web-interface。
+
+安装passenger-standalone
+	yum -y install curl-devel
+	rvm use 1.9.3
+	gem install passenger
+	gem install file-tail
+	 
+	cd /opt/graylog2-web-interface
+	mkdir tmp log
+	chmod -R 777 tmp log
+	passenger start
+
+passenter会下载，编译需要的组件。如果passenger工作正常，按ctrl+c结束passenger。
+
+创建启动脚本/etc/init.d/graylog2-web-interface
+<script src="https://gist.github.com/1867812.js?file=graylog2-web-interface"></script>
+
+创建日志切割配置/etc/logroate.d/graylog2-web-interface
+
+	/opt/graylog2-web-interface/log/*log
+	       size=256M
+	       rotate 90
+	       copytruncate
+	       delaycompress
+	       compress
+	       notifempty
+	       missingok
+	}
+
+注册graylog2-web-interface服务
+	chmod +x /etc/init.d/graylog2-web-interface
+	chkconfig --add graylog2-web-interface
+	chkconfig graylog2-web-interface on
+
+开启graylog2-web-interface
+	service graylog2-web-interface start
+
+设置apache，将80端口的请求转发到passenter
+
+建立配置文件/etc/httpd/conf.d/graylog2.conf
+
+	NameVirtualHost *:80
+	 
+		ServerName log.mydomain.com
+		ServerAlias graylog2.mydomain.com
+		ProxyPreserveHost On
+		ProxyPass        / http://127.0.0.1:3000/
+		ProxyPassReverse / http://127.0.0.1:3000/
+	 
+	        CustomLog /var/log/httpd/log.mydomain.com-access_log common
+	        
+重启服务
+	service httpd configtest
+	service httpd restart
+
+
 ##参考资料
 * [HOWTO: install graylog2 on CentOS 5 with RVM + Passenger](http://joemiller.me/2011/04/13/howto-install-graylog2-on-centos-5-with-rvm-passenger/)
 * [Rsyslogd with MySQL on RHEL / CentOS 6 HOWTO](http://www.standalone-sysadmin.com/blog/2011/09/rsyslogd-with-mysql-on-rhel-centos-6-howto/)
