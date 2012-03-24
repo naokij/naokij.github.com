@@ -23,5 +23,5 @@ graylog2-web-interface里的blacklist使用的是正则表达式，虽然写正�
 	
 将graylog2-blacklist-2-rsyslog.rb加入cron
 
-	cron -e
+	crontab -e
 	*/5 * * * * /usr/local/rvm/bin/ruby-1.9.3-p0 /opt/graylog2-rsyslog-blacklist/graylog2-blacklist-2-rsyslog.rb
