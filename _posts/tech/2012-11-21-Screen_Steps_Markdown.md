@@ -3,7 +3,7 @@ layout: post
 title: Screen Steps 直接导出Markdown文档
 date: 2012-11-21
 category: tech
-tags: screensteps, markdown, jekyll
+tags: [screensteps, markdown, jekyll]
 ---
 
 Screen Steps是用户手册写作利器，jekyll最适合作这类静态网站，如果两者能整合起来，那就天下太平了。研究了一会儿，发现还是很容易实现的，下面把方法共享一下。	
