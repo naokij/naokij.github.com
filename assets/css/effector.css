@@ -24,7 +24,7 @@ a:hover, a:active {
     outline: 0;
 }
 img {
-    max-width: 640px;
+    max-width: 600px;
     height: auto;
     border: 0;
     -ms-interpolation-mode: bicubic;
