@@ -11,21 +11,21 @@ Screen Steps是用户手册写作利器，jekyll最适合作这类静态网站�
 ### 下载Screen Steps lesson模版
 
 
-![](assets/i/Screen_Steps_Markdown/media_1353486898545.png)
+![](/assets/i/Screen_Steps_Markdown/media_1353486898545.png)
 
 [ss-lesson-markdown.zip](http://kb.51hosting.com/assets/ss-lesson-markdown.zip)
 
 ### 解压此文件
 
 
-![](assets/i/Screen_Steps_Markdown/media_1353487041134.png)
+![](/assets/i/Screen_Steps_Markdown/media_1353487041134.png)
 
 
 
 ### 打开Screen Step的模版文件夹
 
 
-![](assets/i/Screen_Steps_Markdown/media_1353487357509.png)
+![](/assets/i/Screen_Steps_Markdown/media_1353487357509.png)
 
 
 1. 打开Screen Steps选项设置
@@ -36,7 +36,7 @@ Screen Steps是用户手册写作利器，jekyll最适合作这类静态网站�
 ### 安装模版
 
 
-![](assets/i/Screen_Steps_Markdown/media_1353487594124.png)
+![](/assets/i/Screen_Steps_Markdown/media_1353487594124.png)
 
 将刚才解压出来的Markdown目录复制到Lesson目录
 
@@ -44,7 +44,7 @@ Screen Steps是用户手册写作利器，jekyll最适合作这类静态网站�
 
 
 
-![](assets/i/Screen_Steps_Markdown/media_1353488002558.png)
+![](/assets/i/Screen_Steps_Markdown/media_1353488002558.png)
 
 
 1. 找一个之前做好的lesson
