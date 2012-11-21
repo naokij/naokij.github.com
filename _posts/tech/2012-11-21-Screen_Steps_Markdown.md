@@ -8,21 +8,21 @@ tags: screensteps, markdown, jekyll
 
 Screen Steps是用户手册写作利器，jekyll最适合作这类静态网站，如果两者能整合起来，那就天下太平了。研究了一会儿，发现还是很容易实现的，下面把方法共享一下。	
 
-### 1 下载Screen Steps lesson模版
+### 下载Screen Steps lesson模版
 
 
 ![](assets/i/Screen_Steps_Markdown/media_1353486898545.png)
 
 [ss-lesson-markdown.zip](http://kb.51hosting.com/assets/ss-lesson-markdown.zip)
 
-### 2 解压此文件
+### 解压此文件
 
 
 ![](assets/i/Screen_Steps_Markdown/media_1353487041134.png)
 
 
 
-### 3 打开Screen Step的模版文件夹
+### 打开Screen Step的模版文件夹
 
 
 ![](assets/i/Screen_Steps_Markdown/media_1353487357509.png)
@@ -33,14 +33,14 @@ Screen Steps是用户手册写作利器，jekyll最适合作这类静态网站�
 1. 选择Lesson
 1. 点文件夹图标
 
-### 4 安装模版
+### 安装模版
 
 
 ![](assets/i/Screen_Steps_Markdown/media_1353487594124.png)
 
 将刚才解压出来的Markdown目录复制到Lesson目录
 
-### 5 OK，检验成果了
+### OK，检验成果了
 
 
 

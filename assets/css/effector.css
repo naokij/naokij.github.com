@@ -32,8 +32,8 @@ img {
 .wrapper p img {
     clear: both;
     display: block;
-    margin-left: -20px;
-    margin-right: -20px;
+    /*margin-left: -20px;
+    margin-right: -20px;*/
 }
 .wrapper iframe {
     margin: 0px -20px;
@@ -113,8 +113,10 @@ h2 small {
     font-size: 18px;
 }
 h3 {
-    line-height: 18px;
+    line-height:30px;
     font-size: 18px;
+    padding: 0px 15px;
+    margin: 15px -15px;
 }
 h3 small {
     font-size: 14px;
